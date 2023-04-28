@@ -1,0 +1,14 @@
+.loader{
+    z-index: 200;
+    position: absolute;
+    width:100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+}
+.loader img{
+    background-color: transparent;
+    border-radius: 50px;
+}

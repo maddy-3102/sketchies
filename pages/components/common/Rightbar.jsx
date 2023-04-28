@@ -4,7 +4,7 @@ function Rightbar() {
   return (
     
         <div className={styles.wrapper2}>
-        right
+       
         </div>
   )
 }

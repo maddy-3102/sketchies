@@ -1,4 +1,11 @@
 .wrapper1{
     flex:2.5;
-    background-color: red;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    margin-top: 2.5px;
+    border-left: 1px solid rgb(221, 220, 228);
+    border-right: 1px solid rgb(221, 220, 228);
+    border-top: 1px solid rgb(221, 220, 228);
+    border-radius: 6px ;
+
 }
